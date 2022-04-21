@@ -1,0 +1,92 @@
+{
+  "ret": true,
+  "data": {
+    "city" : "深圳",
+    "swiperList": [{
+      "id": "0001",
+      "imgUrl": "https://imgs.qunarzz.com/vs_ceph_vcimg/280673be5655fc91ce24ba605c62fe07.jpeg"
+    },{
+      "id": "0002",
+      "imgUrl": "https://imgs.qunarzz.com/vs_ceph_vcimg/5be2601d1f921f166646b817459a2727.jpeg"
+    }],
+    "iconList": [{
+      "id": "0001",
+      "imgUrl": "http://img1.qunarzz.com/piao/fusion/1611/54/ace00878a52d9702.png",
+      "desc": "景点门票"
+    }, {
+      "id": "0002",
+      "imgUrl": "http://img1.qunarzz.com/piao/fusion/1711/df/86cbcfc533330d02.png",
+      "desc": "滑雪季"
+    }, {
+      "id": "0003",
+      "imgUrl": "http://img1.qunarzz.com/piao/fusion/1710/a6/83f636bd75ae6302.png",
+      "desc": "泡温泉"
+    }, {
+      "id": "0004",
+      "imgUrl": "http://img1.qunarzz.com/piao/fusion/1611/35/2640cab202c41b02.png",
+      "desc": "动植园"
+    }, {
+      "id": "0005",
+      "imgUrl": "http://img1.qunarzz.com/piao/fusion/1611/d0/e09575e66f4aa402.png",
+      "desc": "游乐园"
+    }, {
+      "id": "0006",
+      "imgUrl": "http://img1.qunarzz.com/piao/fusion/1611/59/569d3c096e542502.png",
+      "desc": "必游榜单"
+    }, {
+      "id": "0007",
+      "imgUrl": "http://img1.qunarzz.com/piao/fusion/1611/17/4bd370f3eb1acd02.png",
+      "desc": "演出"
+    }, {
+      "id": "0008",
+      "imgUrl": "http://img1.qunarzz.com/piao/fusion/1611/7f/b1ea3c8c7fb6db02.png",
+      "desc": "城市观光"
+    }, {
+      "id": "0009",
+      "imgUrl": "http://img1.qunarzz.com/piao/fusion/1611/a9/ffc620dbda9b9c02.png",
+      "desc": "一日游"
+    }],
+    "recommendList": [{
+      "id": "0001",
+      "imgUrl": "http://img1.qunarzz.com/sight/p0/201307/15/7eab0785f2aa37e8c8d65eac.jpg_200x200_ca7ce0e0.jpg",
+      "title": "大梅沙",
+      "desc": "大梅沙海滨公园位于深圳特区东部，地处南海之滨"
+    }, {
+      "id": "0002",
+      "imgUrl": "http://img1.qunarzz.com/sight/p0/1505/c6/c6277b512fd15c8b.water.jpg_200x200_2fd4e290.jpg",
+      "title": "玫瑰海岸旅游度假区",
+      "desc": "玫瑰海岸是大鹏湾内的一处绝美海滩，这里沙平水清，海岸上拥有众多城堡、花海等梦幻场景，从而成为了深圳热门的婚纱摄影地"
+    }, {
+      "id": "0003",
+      "imgUrl": "http://img1.qunarzz.com/sight/p0/2203/62/62bb1f47f6146658a3.water.jpg_200x200_d55fce9a.jpg",
+      "title": "世界之窗",
+      "desc": "景区按世界地域结构和游览活动内容分为世界广场、亚洲区、大洋洲区、欧洲区、非洲区、美洲区、雕塑园区、国际街"
+    }],
+    "weekendList": [{
+      "id": "0001",
+      "imgUrl": "http://img1.qunarzz.com/sight/source/1507/d9/2ddc7652fdba16.jpg_r_640x214_5e62f1a3.jpg",
+      "title": "深圳周边玩",
+      "desc": "远离城市拥堵，去周边开启清新假期吧。"
+    }, {
+      "id": "0002",
+      "imgUrl": "http://img1.qunarzz.com/sight/source/1811/15/66f14e0fd6fbb.jpg_r_640x214_5d69f21d.jpg",
+      "title": "清远周边逛",
+      "desc": "人人都有一双发现美的眼睛，身边的事物最熟悉不过，那你可曾发现了被人遗漏的美？"
+    }, {
+      "id": "0003",
+      "imgUrl": "http://img1.qunarzz.com/sight/source/1811/b8/5d599bbdcf8b57.jpg_r_640x214_2ee055e3.jpg",
+      "title": "浮在海上的绿洲",
+      "desc": "南国滨海之城，避寒胜地，有暖暖的阳光，海风习习，吃着海鲜逛逛老街多惬意啊"
+    }, {
+      "id": "0004",
+      "imgUrl": "http://img1.qunarzz.com/sight/source/1602/88/bf120edeaea383.jpg_r_640x214_f8591f7b.jpg",
+      "title": "欢乐长隆",
+      "desc": "世界欢乐汇聚长隆，这里拥有多个大型游乐设备和精彩的演出，和小伙伴们一起感受刺激的体验"
+    }, {
+      "id": "0005",
+      "imgUrl": "http://img1.qunarzz.com/sight/source/1505/fa/ca65fde9677de2.jpg_r_640x214_4500e3ff.jpg",
+      "title": "深圳必打卡",
+      "desc": "来到深圳，你需要来这里签到"
+    }]
+  }
+}
